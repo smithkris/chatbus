@@ -1,0 +1,5 @@
+Flask==2.2.5
+keras==2.13.1
+nltk==3.8.1
+numpy==1.23.5
+pyspellchecker==0.7.2
